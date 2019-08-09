@@ -32,16 +32,16 @@
 ## 사용법
 [uBlock Origin](https://github.com/gorhill/uBlock), [Adguard](https://adguard.com) 환경에 최적화 되어 있습니다.
 
-사용하고자 하는 프로그램에서 아래 필터 구독 주소를 입력하여 주십시오.
+사용하고자 하는 프로그램에서 아래 **필터 구독 주소**를 입력하여 주십시오.
 ```
 https://github.com/kmcf/KMCF/raw/master/filter.txt
 ```
 ### Adguard
-`설정` - `광고 차단` - `필터 편집기 열기` - `+`를 선택 후 `URL로 필터 추가` 누르시고 필터 구독 주소를 입력하여 주십시오.
+`설정` - `광고 차단` - `필터 편집기 열기` - `+` - `URL로 필터 추가` 누르시고 필터 구독 주소를 입력하여 주십시오.
 ![애드가드](https://user-images.githubusercontent.com/21292037/62761908-d6b33000-bac2-11e9-82b4-f1c80ef02b1b.png)
 
 ### uBlock origin
-`클릭하여 대시보드 열기` - `설정` - `보조 필터` 하단에 있는 URL 입력창에 위의 주소를 붙여 넣습니다.
+`클릭하여 대시보드 열기` - `설정` - `보조 필터` 하단에 있는 URL 입력창에 필터 구독 주소를 붙여 넣습니다.
 ![유블락오리진](https://user-images.githubusercontent.com/21292037/62755549-6fd84b80-baaf-11e9-800d-89c256a8f50e.png)
 
 ### Adblock Plus
