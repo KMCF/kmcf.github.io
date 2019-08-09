@@ -30,7 +30,7 @@
 [Gary King, Jennifer Pan, &Margaret E. Roberts. (2017) How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument](https://gking.harvard.edu/50C)
 
 ## 사용법
-[uBlock Origin](https://github.com/gorhill/uBlock), [Adguard](https://adguard.com) 환경에 최적화 되어 있습니다.
+ [Adguard](https://adguard.com), [uBlock Origin](https://github.com/gorhill/uBlock) 환경에 최적화 되어 있습니다.
 
 사용하고자 하는 프로그램에서 아래 **필터 구독 주소**를 입력하여 주십시오.
 ```
